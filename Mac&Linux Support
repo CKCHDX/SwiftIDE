@@ -1,0 +1,16 @@
+Wine is required to use SwiftIDE on Linux or Mac
+What is Wine?
+Wine (originally an acronym for "Wine Is Not an Emulator")
+is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems.
+Such as Linux, macOS, & BSD.
+
+Home page = https://www.winehq.org
+Download Wine
+
+Download Page = https://wiki.winehq.org/Download
+Mac = https://wiki.winehq.org/MacOS
+Download for linux 
+=>
+      Ubuntu > https://wiki.winehq.org/Ubuntu
+      Debian > https://wiki.winehq.org/Debian
+      Fedora > https://wiki.winehq.org/Fedora
