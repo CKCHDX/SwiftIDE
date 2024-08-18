@@ -5,3 +5,6 @@ https://dotnet.microsoft.com/en-us/download
 
 .net framework 6.0 or later
 https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+
+for users that use windows 8.1/8, 7 or older windows i recommend downloading .net core 2.1 for smoother performance during build process
+https://dotnet.microsoft.com/en-us/download/dotnet/2.1
